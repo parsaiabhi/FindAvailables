@@ -5,18 +5,7 @@ package com.matrix.model;
  * @author abhishek
  *
  */
-/**
- * @author abhishek
- *
- */
-/**
- * @author abhishek
- *
- */
-/**
- * @author abhishek
- *
- */
+
 public class Person {
 
 	private String name;
